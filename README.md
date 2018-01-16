@@ -7,8 +7,9 @@ R Program For Modelling **Amsterdam** Energy Consumption and Emissions From Vari
 Selected Days in **_2015_**
 
 ### Here's the methodology
-![alt text][Diagram]
-[Diagram]: https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg
+Data processing:
+ ![alt text][logo]
+ [logo]: https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg
 
 ### Here's the example emission per zona(*buurt*)
 ![alt text](https://github.com/PedroJoTe/ClairCity/blob/master/Picture/NOX.jpg)
@@ -18,4 +19,7 @@ Selected Days in **_2015_**
 [ Visit this link for project mapping ](https://claircitydata.cbs.nl/)
 
 
+---
+
  
+ [![by:](https://zenodo.org/badge/doi/10.5281/zenodo.16097.svg)](http:www.pinrolinvic.com).

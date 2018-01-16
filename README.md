@@ -22,4 +22,4 @@ Data processing:
 ---
 
  
- [![by:](https://zenodo.org/badge/doi/10.5281/zenodo.16097.svg)](http:www.pinrolinvic.com).
+ [![by:](https://ci.appveyor.com/api/projects/status/a8m2b97bxsbo6jhh?svg=true)](http:www.pinrolinvic.com).

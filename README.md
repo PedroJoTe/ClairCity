@@ -8,16 +8,15 @@ Selected Days in **_2015_**
 
 ### Here's the methodology
 Data processing:
- ![alt text][logo]
- [logo]: https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg
+![alt text](https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg)
 
-### Here's the example emission per zona(*buurt*)
-![alt text](https://github.com/PedroJoTe/ClairCity/blob/master/Picture/NOX.jpg)
+### Here's the emission 
+Example emission per zona(*buurt*)
+![alt text](https://github.com/PedroJoTe/ClairCity/blob/master/Picture/NOX.jpg "Nitrogen Oxide Emission")
 
 
 ### Project Flow Setup 
-Visit this [link] for project mapping 
-[link]: https://claircitydata.cbs.nl/
+Visit this <https://claircitydata.cbs.nl>
 
 
 ---

@@ -7,8 +7,11 @@ R Program For Modelling **Amsterdam** Energy Consumption and Emissions From Vari
 Selected Days in **_2015_**
 
 ### Here's the methodology
+
 Data processing:
-![alt text](https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg)
+![alt text][logo]
+
+[logo]: https://github.com/PedroJoTe/ClairCity/blob/master/CCdataflow.jpeg
 
 ### Here's the emission 
 Example emission per zona(*buurt*)
@@ -16,7 +19,7 @@ Example emission per zona(*buurt*)
 
 
 ### Project Flow Setup 
-Visit this <https://claircitydata.cbs.nl>
+Visit this link : <https://claircitydata.cbs.nl> 
 
 
 ---

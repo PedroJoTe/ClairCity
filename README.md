@@ -16,7 +16,8 @@ Data processing:
 
 
 ### Project Flow Setup 
-[ Visit this link for project mapping ](https://claircitydata.cbs.nl/)
+Visit this [link] for project mapping 
+[link]: https://claircitydata.cbs.nl/
 
 
 ---

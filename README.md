@@ -21,8 +21,6 @@ Example emission per zona(*buurt*)
 ### Project Flow Setup 
 Visit this link : <https://claircitydata.cbs.nl> 
 
-
 ---
 
- 
  [![by:](https://ci.appveyor.com/api/projects/status/a8m2b97bxsbo6jhh?svg=true)](http:www.pinrolinvic.com).
